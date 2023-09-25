@@ -1,0 +1,9 @@
+wheel
+setuptools
+numpy
+matplotlib
+pandas
+pytest
+joblib
+networkx
+scipy

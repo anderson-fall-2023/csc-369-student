@@ -1,0 +1,1041 @@
+﻿The Project Gutenberg eBook of The Flight of the Eagle, by Sol Galaxan
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
+
+Title: The Flight of the Eagle
+
+Author: Sol Galaxan
+
+Release Date: January 09, 2021 [eBook #64238]
+
+Language: English
+
+Character set encoding: UTF-8
+
+Produced by: Greg Weeks, Mary Meehan and the Online Distributed
+             Proofreading Team at http://www.pgdp.net
+
+*** START OF THE PROJECT GUTENBERG EBOOK THE FLIGHT OF THE EAGLE ***
+
+
+
+
+                        The Flight of the Eagle
+
+                            By SOL GALAXAN
+
+                _It was a new and mysterious plant. It
+                  could make its own weather; it was
+               sentient, and it prospered on Venus. But
+              Earth needed it desperately. And Bat Kendo,
+              the radar-mutant, was told to bring it in._
+
+           [Transcriber's Note: This etext was produced from
+                    Planet Stories September 1953.
+         Extensive research did not uncover any evidence that
+         the U.S. copyright on this publication was renewed.]
+
+
+Humans are a strange breed. Forgetful. They grow accustomed to the
+wonders they live among so easily that they never really figure up the
+cost. A little time passes and the bright memories tarnish and are
+covered over with newer ones. And the men who picked up the check and
+maybe paid with their lives? Forgotten.
+
+For example, when you're sitting comfortably in the New York to San
+Francisco stratojet, and you take the trouble to look down at the
+lush verdure of the eastern slope of the Sierra Nevada, do you ever
+remember that a few short years back that lovely fertile parkland was
+a rocky, barren waste? Or when you taste the delicious tropical fruits
+that are brought to your table from the Mojave Basin, do you think of
+Bat Kendo, the man who made all that possible? Like fun you do! I'll
+give you ten to one you never heard of Bat Kendo. Maybe you don't even
+know that the reason those once sterile wastelands are now the larders
+of the North American continent is ... weather-plant. And I'll give
+eight to five you don't even know where that weather-plant came from,
+or how it got here, or what it cost. Not in money ... in lives.
+
+Well, I know, and for once I'd like to have someone stand still long
+enough so I could tell the story. The minute anyone sees an old
+spaceman like me coming, they jet the hell out of there fast. "Old
+Captain Morley's got another shaggy dog to comb out!" they say, and
+beat it. My stories, it seems, are too old fashioned for this modern
+age. Just because I, and a lot of others like me--only maybe not so
+lucky--spent our lives opening up the spaceways instead of sitting home
+on our venturiis, we're "odd characters" and "old space-hacks," and our
+stories are tall tales--yarns to be avoided, or laughed at if it's not
+possible to avoid them.
+
+Okay, I expect that. But I still want to tell how that weather-plant
+came to be where it is now, and what Bat Kendo had to do with it. He
+was my shipmate on the R. S. _Eagle_, and I think he's got a little
+credit coming to him.
+
+The history books will tell you that during the last few years of the
+20th Century the population of North America increased by something
+like 600 per cent. They might even tell you that this put such a load
+on the continental resources--food, mainly--that famine became a
+possibility for the first time in the history of the continent. Things
+were pretty tight. People were actually starving amid the technological
+wonders of the time. Hydroponics were tried, but they fizzled badly.
+
+The only answer seemed to be complete utilization of all available
+land area for food production. And that meant that a lot of land that
+couldn't grow weeds had to produce edible crops. That's the way things
+stood back in '02, just after the William Robert Holcomb Foundation's
+R. S. _Explorer_ returned from Venus with what the botanists thought
+might be an answer.
+
+Of course, the Earth-Luna System was well traveled even then, but it
+took the big money of the Holcomb Foundation plus a whopping World
+Federal Government grant to make a deep space mission feasible.
+
+It was a Holcomb Foundation metallurgist's synthesis of impervium
+that made deep space navigable. Before this time all ships were
+chemical-fuelled because the weight of lead needed to shield atomics
+would nail any spacer built to terra firma ... but good. Chemical ships
+could make Luna, but no farther. Lucky to get that far with the pumps
+feeding the jets a stream of monoatomic hydrogen as thick as your
+arm. A ship could carry about enough juice to get up the necessary
+seven-a-second with maybe enough for landing ... maybe. Even then
+plenty of ships that carried a pound or two of mass too much arced
+back to Earth and splashed themselves all over the ground. Others got
+up escape-velocity only to run dry trying to land on Luna. Their metal
+bones are still up there; if you care to look for them.
+
+Impervium changed all that. Here was a metal that was easily worked, as
+light as a good quality aluminum-magnesium alloy, and strong as steel.
+And it was impervious to everything except neutrino bombardment. That
+was the ticket to deep space. Atomics were in and chemicals out. I
+might add that none of us were sorry to see them go, either.
+
+Luna remained the jumping-off place. And Foy City was the staging area
+for trips to ... UP. Before the successful flight of the _Explorer_,
+Foy had been just a combination mining and scientific camp. After the
+_Explorer_ returned from Venus, spacemen began to pour up from Earth,
+and Foy City became one of the rowdiest places under Sol. Jetmen and
+pilots, tubemen and ABs, all the restless flotsam of humanity flowed up
+to Luna in a steady stream to mingle with the miners from the Diggings
+and the longhairs from the Cosmiray Labs and the big dome of Starview.
+
+Mars was reached and colonization began. And men set up a settlement on
+Venus. The Holcomb Foundation was convinced that they had the answer
+to the critical food shortage on Earth. Weather-plant. The one useful
+thing that stinking Venus produces.
+
+Weather-plant is a moss-like plant that will grow almost anywhere.
+The Foundation botanists found that it gathered nitrogen and
+water in some inexplicable way, and they became interested in its
+possibilities. Something had to be done about soil reclamation back
+on Earth, or starvation would strangle the race. Weather-plant looked
+like the answer. What the smart boys couldn't have guessed was that
+in addition to its other strange properties, weather-plant was
+intelligent--sentient, at least. And they didn't know that it liked its
+wet, foggy environment very, very much.
+
+       *       *       *       *       *
+
+I hit Foy City with a mammoth thirst and very little spending money.
+A bad combination. I had a Pilot's rating and a brand-new Second
+Officer's ticket, and I needed a job.
+
+I'd been handling a regular chemical flight out of Foy to Montevideo
+for a one horse concern that was still trying to make the low grade
+uranium ore found on the Moon pay off. When I came down onto the great
+pumice plain of Mare Imbrium that served Foy as a spaceport, the
+patched-up blow-torch I was jockeying blew a venturi and buried herself
+under twenty feet of pumice. If it had happened on Earth, we'd have
+been cooked, but Luna's one-sixth gravity saved our hides. Those were
+the days before tractor-pressor beam landings, you see. Back then you
+landed a can by balancing her on her tail-flare like a ball on a water
+spout. And that was a rough go anyway you want to look at it.
+
+Anyway, after the pileup I quit. There was some difference of opinion
+on that particular point between the company and me. They claimed I was
+fired.
+
+Quit or fired, however, I didn't get paid, and that led me to seek
+solace in the local pubs. That, in turn, led me to the city drunk-tank
+for the night, and that's where I ran into Bat Kendo....
+
+Bat was Chief Tubeman on the R. S. _Eagle_. He was also a mutation.
+Not that he wasn't human or anything like that. And he certainly
+wasn't the much kicked around "homo superior." He merely had an extra
+sense. We all have it dormant. Bat had it well developed. That's why
+he was called Bat. People thought he could see in the dark. It wasn't
+that. Try closing your eyes and moving your head slowly toward an
+obstruction. If you are very careful and very alert, you'll be able to
+sense the obstruction before you touch it. Well, Bat could "see" things
+that way ... perfectly. He even used to pick up beer money by getting
+into the ring blindfolded and letting pugs throw punches at him. They
+hit him, but not often. And when they did connect it wasn't because he
+didn't sense the blows coming; it was because he was slow on his feet
+and generally three quarters drunk.
+
+Bat's father, Nakano Kendo, had grown up in Nagasaki. He'd been exposed
+to radiation by the second atom blast there. Bat had befuddled the
+geneticists by showing up a mutation one generation before he was
+supposed to. He used to laugh about that.
+
+His mother had been Russian. Certainly you couldn't tell his
+nationality by looking at him. His face held a suggestion of the
+Asiatic, but trying to place him anthropologically would have been as
+difficult as finding a pure Anglo-Saxon, whatever that is.
+
+Bat was just the product of an insane age. A child of a man whose germ
+plasm had been dosed with radiation. But for all of that Bat Kendo was
+normal. Two arms, two legs, two eyes. Only his built-in radar marked
+him as different. That, and his terrific taste for booze. I never
+saw him sober. Yet to see him, you'd never guess he was perpetually
+saturated. There may have been bigger drunks in space, but I never knew
+one.
+
+As a tubeman, he never had an equal. As an all around right guy, he
+never will have.
+
+It was Bat that talked me into signing on the _Eagle_. They needed a
+Pilot, and where a better place to find one than in the Foy City drunk
+tank? I knew the _Eagle_, of course. Everyone in the Luna-Earth System
+did. She was a five hundred tonner, newly converted to atomics and
+fitting in the Foundation yards for a flight to Venusberg.
+
+She was going to pick up a full cargo of weather-plant from the
+settlement. A hundred tons of it. And brother, that's a lot of
+weather-plant.
+
+This was to be the first quantity shipment of the stuff. The
+"pilot-shipment." The botanists suspected a lot and had great hopes.
+But it was up to the _Eagle_ to get the stuff to Earth. She was the
+only ship available for the trip with enough storage space for the
+plant, and when I listened to Bat talk about it, the flight began to
+take on the aspect of a mercy mission.
+
+I knew people were going hungry back Earthside, and old Bat was really
+steamed up about it. I dare say if it hadn't been for his pep talk I'd
+never have signed on. Deep space was still new, and I liked living.
+But Bat talked me into it, and as soon as the turnkey shook us out of
+the sack and shooed us out, Bat and I headed for the Foundation yards
+and the _Eagle_.
+
+My first view of the ship didn't do much to make me happy about the
+trip. She looked old and scabrous standing tall on her tail fins out on
+the flat, glaring plain of Mare Imbrium. Her hull was meteor-scarred
+and eroded by atmospheric friction, and there seemed to be an abundance
+of patch-welds on her.
+
+Her tubes, however, were spanking brand new, and after I had inspected
+her control-tube-pile system--as all prospective pilots have a right to
+do--in company with Bat and Captain Reynard, I signed.
+
+Reynard was a decent enough skipper. He wasn't much of a
+disciplinarian, but the boat only carried a crew of twenty, so that was
+no problem. As an astrogator, he had quite a reputation, and he'd been
+out to Venus before on one of the ships that lugged the settlers and
+scientific personnel out there.
+
+There wasn't much fanfare when the time came for our departure. Ships
+were lifting every day for Mars just then, and the departure of one
+for Venus didn't seem important. Before we left though, a Holcomb
+Foundation man came aboard and spoke to us about the importance of
+our trip. He said that if we didn't bring back the weather-plant in
+good shape, things might turn nasty on Earth. It would be another year
+and a half before Venus and Earth came into conjunction again, and by
+that time it might be too late for the thousands who were going hungry
+back home. It gave us a sense of responsibility, all right. And it
+particularly had an effect on Bat.
+
+       *       *       *       *       *
+
+We lifted from Mare Imbrium on 11/9/02 Earth Date. I recall that I
+gave her 2G, easing her up to 6G and holding that acceleration for
+sixty hours. By that time our speed in MPH wouldn't have made sense.
+I revelled in the power under my hands, and the feeling that I could
+actually waste an erg or two without having to worry myself bald about
+landing. The _Eagle_ carried fifty pounds of ingot thorium as fuel,
+and with our new atomics, that would have taken us to Centaurus, if
+we'd had the time. It was wonderful to be able to keep the boat under
+a steady 1G all the way to turn-over instead of having to endure the
+endless nausea of free-fall. Even seasoned spacemen never got used to
+free-fall, and atomics eliminated it, thank God!
+
+The sunward flight was something to remember for sheer beauty. Earth
+and Luna faded astern until they were just a bright point of light.
+The sun blazed like a ball of white fire ahead of us, and Venus grew
+brighter and brighter against the breath-taking backdrop of the Milky
+Way. It was a gorgeous sight--but frightening, too. I had the feeling
+that I was terribly exposed, as though I were standing balanced atop
+the spire of the Holcomb Tower, five hundred stories above the teeming
+streets of New York. Agoraphobia, I think the psychs call it. The
+others felt it too. In fact one of the jetmen went slightly off his
+rocker and had to be jugged. But most of the men came through the first
+fear of deep space well enough, and as an astrogator Captain Reynard
+was strictly one hundred per cent.
+
+I didn't see much of Bat on the trip, since he was down in the heavily
+sheathed tuberoom with his "black-gang." But I could tell whenever he
+was on watch, because if I turned the interphone on without warning, I
+could almost invariably hear his beery baritone singing the praises of:
+
+    "That Lulu! Belle of ol' Foy City
+    Who wears two hammocks...."
+
+Bat was something of a poet, in his lighter moments--though most of his
+stuff was lamentably unprintable.
+
+I did get in on one little session with him and about a dozen of the
+crew. That was down in the forecastle where he was entertaining the
+off-watches by letting them blindfold him and then try to hide a bottle
+of the tetrant alky we called our "rations." Naturally, he always
+found it, and naturally he always drank it. It took them most of the
+sunward trip to wise up to the fact that he was a mutation with his own
+detecting system already built-in--courtesy of the Manhattan Project
+and Nakano Kendo's irradiated gametes. The crew lost most of its alky
+rations that way, and old Bat soaked the stuff up like a sponge.
+
+We passed turn-over point and then the long fall down to Venus
+began--three weeks of it.
+
+Contact was established with the settlement while we were still
+above the stratosphere, and our Ultra-wave-radar went into action,
+the endless scanning that is absolutely essential to the landing of
+spacecraft through cloud layers.
+
+I don't mind admitting that there was a cold sweat on my brow when I
+started down through the soup. The reports from UVR indicated plenty
+of clearance from the mountains, but I was still leery. Some of those
+peaks are reported to be as high as 200,000 feet. The _Eagle's_ gyros
+were screaming and the muffled thunder of the jets filtered through
+every plate of her. I'd let her slide a bit and then snatch her up
+with a blast of the jets. Each time I touched the firing consoles, I
+could hear the moan of the blasted atomic particles rushing through
+the venturiis, and I could see the glitter of the cloud moisture that
+hugged the ports as it absorbed lethal radiations from the tail-flare.
+
+Then the clouds began to thin and I could make out the pattern of the
+spaceport beneath us through the billowing formaldehyde mists that
+serve Venus for an atmosphere.
+
+I was a wreck by the time the _Eagle's_ fins touched the ground and the
+dancing fire of the tubes flickered and died. I felt her sag as she
+sank slightly into the mushy soil, and then I was cutting the power
+switches and listening to the slowly descending whine of the gyros as
+they coasted silkily to a halt.
+
+I looked out of the ports at the miasmic swamp that surrounded us, at
+the fifty foot ferns in ghastly colors, at the alien, repellent trees
+that grew pulpy and squat all around the settlement. This was Venus....
+
+       *       *       *       *       *
+
+Venusberg wasn't the great domed city then that it is now. Back in
+'02 it was just a group of pressurized Quonset huts. There were about
+sixty men there, mostly maintenance workers and horticulturalists, and
+five women. Four women were scientists, the fifth Bat Kendo spent his
+planet-leave with.
+
+The settlers were very cordial with us. I guess we must have been like
+a breath of the home world to these poor characters who lived there.
+
+I accompanied Captain Reynard on a tour of the cultivated areas and the
+settlement itself. We were shown how the weather-plant was cultivated
+and how it gathered nitrogen and water out of the fetid air to deposit
+it in the soil. We saw how there were always banks of mist over the
+rows of plants. It gave me quite a shock when I reached down to touch
+some and the stuff actually shied away from my pressure-suit glove.
+
+"We suspect that the stuff might actually be sentient," the settlement
+botanist told us.
+
+"You mean the stuff _thinks_?" Captain Reynard demanded.
+
+The botanist laughed. "Oh, no. It's just that when there is a
+considerable amount of the stuff about it reacts peculiarly. As soon as
+this ship load of yours gets to Earth, the Foundation staff can really
+get to work with it and see just what all it can do. We've great hopes
+for it. It may be the answer to starvation back home."
+
+I looked out over the neat rows of tiny plants that vanished in the
+misty distance, and I looked too, at the pressing jungle. I began to
+get a queasy feeling in my stomach. This was alien life. Life that had
+never been meant for Earth's clean soil. There was no telling what the
+stuff might do away from here.
+
+"We suspect," the botanist was saying, "that the high formaldehyde
+content of Venus' atmosphere has an inhibiting effect on the action of
+the plant. We have isolated small amounts in formaldehyde-free air,
+and gotten some interesting results. Freed of its native ecology, we
+believe the stuff can actually create its own weather."
+
+His voice faded away as far as I was concerned. Somewhere in my head
+a bell was trying to ring. There was something here that was escaping
+this botanist and Captain Reynard. I couldn't put my finger on it. I
+had the crazy feeling that something, like the Purloined Letter, was
+hidden here. Something obvious, something that could be, under the
+proper circumstances, dangerous.
+
+But I didn't figure it out. Not just then. Not until it was too late.
+All the clues were there; the plant and the way it could gather
+water vapor and nitrogen, the threat of taking it from its native
+ecology. Everything. But I didn't tumble. Not until it was too late and
+the obvious had taken a toll. In lives....
+
+On 23/35/02 Venus Date the _Eagle_ was fully loaded and ready for the
+long haul back up to Earth. The colonists gathered to bid us farewell,
+and the party was a corker. Bat did his human radar act somewhere
+along about the time the fifteenth libation was poured. He was at his
+extra-normal best, telling astounded colonists just what they were
+doing with their pinkies at ranges up to three hundred yards in pitch
+darkness. I could have told them that he was almost as good as UVR, but
+that might have spoiled the effect.
+
+Three hours later we had bid an enthusiastic good-bye to that mushy
+ball of swamp and stench those poor colonials called home, and the
+valves sighed shut in the _Eagle's_ flanks. The loading cranes pulled
+away and our own were retracted. The ramp was cleared and the lift-ship
+alarm blared through the _Eagle_.
+
+The gyros reached operating RPM and I let my hands play over the
+consoles. The boat shuddered and lifted slowly on a tail of fire. I fed
+her more power and the accelerometer moved up to 2G. I held her there
+until we broke out of the clouds and into the crystalline cobalt of the
+ionosphere. I swung the power lever over and the _Eagle_ leaped upward,
+her needle-nose pointed for home.
+
+We were well past turn-over, in fact just about nineteen hours from
+Earth when things began happening.
+
+Bat called Control, his voice tense with excitement. "Morley! There's
+something coming ... fast! I can feel it!"
+
+I started to ask him what was coming in fast, and whether or not he
+could "see" it clearly through the metal of the ship, but I never
+finished. UVR flashed a red alert warning on my control panel ... and
+it was the last warning it ever gave.
+
+The panel screeched: "METEOR SWARM!" and went dead. The lights
+flickered and went out as the _Eagle_ bucked and roared in protest. The
+sound of tearing metal knifed through the hull, and then the whooshing
+sound of escaping air. Alarm bells clattered futilely--bulkheads
+slammed. The ship's self-sealing mesoderm saved most of the air, but
+not before the pressure in the boat dropped from 14.7 down to 6 lbs.
+per square inch in about two seconds and doubled me up in an agony of
+aero-embolism. For a long while there was silence, and I fought the
+glittering knives of pain that seemed to be cutting me into hamburger.
+Then the lights came back on, dimly. There was still life in the old
+_Eagle_.
+
+I staggered to my feet and rang the tuberoom. A pilot's first instinct
+is to check the power. No matter what has happened to his ship, if
+there's power there's hope.
+
+"Morley...!" It was Bat calling back through the interphone. "We've had
+it down here! The sheathing is gone and I've got three men killed!" I
+could hear the sound of metal sizzling in the background as Bat looked
+about for more dope to pass on. As it was it looked bad enough. If
+the sheathing was shot, that meant that he was taking lethal doses of
+radiation even as he spoke to me.
+
+"Bat!" I shouted, "Bat, you crazy fool! If that place is hot, get out
+of there!"
+
+I got no reply.
+
+"Bat! That's an order! Put the pile on automatic and get the hell out!"
+
+"No soap, Morley...." Bat's voice seemed edged with pain. "You know the
+autos won't last for more than thirty minutes. Strictly ... emergency
+stuff...." And then his voice grew even tighter. "The storage, Morley!
+Those stinking ... rocks ... took ... out ... the storage! All the
+thorium went out ... the side ... they hit ... the storage bunker!"
+
+That tore it. Without thorium ... without even an extra gram ... the
+best we could hope for was making it to Earth. Luna and its lovely
+one-sixth gravity for a crash landing was out.
+
+I tried to get Captain Reynard on the phone, but there was no answer
+from his quarters. I didn't need a diagram to figure out that he was
+either dead or so tied up with bends that he couldn't reach the phone.
+
+I started the compressors and the pressure began to build up, but the
+mesoderm patches wouldn't stand more than 9 lbs. Well, it had to do.
+
+The griping pains eased a bit inside me and I tried to take stock of
+the situation. Station by station, I called the crew and assessed the
+damage. It was plenty.
+
+The whole communications deck was gone and the only radio on board that
+worked was the tiny panel set in control. The UVR was mangled and so
+was its crew of four men. Three tubemen had died in the tuberoom and I
+didn't know how badly Bat might be hurt. No one could enter because the
+place was hot. The thorium was gone and the sheathing on the pile too.
+I looked in on the Captain and scratched him off the list. Death from
+bends is not a pleasant thing to see. The _Eagle_ was my command now.
+As pilot and Second Officer, I took over, for better or worse.
+
+I returned to Control and gave the crew a quick rundown on the
+situation. Work parties were made up and the wreckage cleared away. The
+dead--the ones we could find--were wrapped in celoflex and consigned
+to space. I mumbled a prayer over them as they slipped out into the
+void. They weren't all Christians, but somehow I had a feeling that
+they wouldn't mind too much. There's something about the immensity of
+the cosmos that makes men relinquish their petty prejudices. And when I
+got back into Control and watched the tell-tales on the Geiger-Muller
+Counters down in the tuberoom, I said another prayer--for Bat Kendo.
+
+I kept wondering why we had hit that meteor swarm. The normal chances
+of such an encounter are in the vicinity of a thousand to one. Bits of
+memory kept tugging at me, but I couldn't get things properly trimmed
+up until a call from Bat in the tuberoom furnished the key.
+
+"Morley, there's a piece of those damned rocks down here ... and it's
+melting!"
+
+Ice! Water! Weather-plant! The pieces of the puzzle began to fit now.
+The swarm was ice ... superhard ice ... tempered by the awful cold
+of the void. And the weather-plant in the hold--one hundred tons
+of it--had attracted it hungrily! The plant had more than just an
+affinity for water! It acted like a magnet! There had probably been
+nitrogen dissolved in the water, too, and that had added to the plant's
+attraction!
+
+A sick feeling moved into the pit of my stomach and stayed right there.
+There was no way of jettisoning the cargo, and there wasn't enough
+fuel for a try at airless Luna! That meant....
+
+I could hear the Venusian botanist's words echo mockingly in my ears.
+"... we suspect it can create its own weather!"
+
+I knew real fear then. I looked at the great greenish globe of Earth
+that grew hourly larger beneath us, and shuddered....
+
+       *       *       *       *       *
+
+Seventeen hours later we were into the ionosphere. My instruments
+warned that I had just enough thorium left in the pile to keep the
+_Eagle_ up for another hour and ten minutes. The radar was gone, but
+the weather-plant was fat and healthy.
+
+I tried to pick up a good spot for the landing. The Mojave Desert.
+Chances for clear weather were better there than anywhere else, though
+I could guess even then what our chances were.
+
+The _Eagle_ shuddered to a vibrating halt, balancing on her tail-flare
+at about twenty five miles. The gyros were climbing the sonic scale,
+sending their shrieking whine through every deck of the crippled ship.
+I looked outside, and cold sweat beaded my face. Even at this height, a
+fine mist was forming around the _Eagle_.
+
+Freed of Venus' formaldehyde atmosphere, our tons of weather-plant were
+happily doing their job. Drawing water vapor out of Earth's air. It
+liked fog. _And it could make its own weather!_
+
+I looked at the chronometer. I had just one hour now to get this ship
+down through this soup that clung to us--without UVR. I had one hour to
+do the job or gravity would do it for me.
+
+I let her slip down to fifteen miles and held there, gyros protesting.
+The mist thickened. I rang the crash alarm, sending all hands who were
+not actually engaged in the running of the ship to their quarters and
+the crash-hammocks. My hands were icy cold.
+
+The _Eagle_ sank slowly down to five miles and hung there like a
+ball bouncing on a jet of water. The mist billowed about us, turning
+radioactive from the vicious lashing of the tail-flare.
+
+I knew that the weather was perfectly clear perhaps two hundred yards
+away from the ship, but the weather-plant was creating the soggy
+weather it liked and I was being effectively blindfolded by the--
+
+Blindfolded!
+
+I grabbed for the interphone. "Bat!" I yelled, "Bat! Can you see
+anything below?"
+
+Old Bat knew right away what I wanted, but his answer wasn't what I
+wanted to hear. "Too much metal under me, Morley ... too much metal."
+His voice was unsteady and seamed with pain.
+
+I glanced at the chronometer. Thirty seven minutes left. And the fog
+clung to the ports.
+
+"Morley," Bat sounded something like himself for just a minute. "I've
+got a notion. Maybe ... maybe it will work. Break out a pressure-suit
+and get the craneman on the ball. And Morley...." Here I could imagine
+that he was smiling. "... break out a bottle of the skipper's bonded
+stuff, will you?"
+
+"What are you dreaming up?" I demanded anxiously.
+
+"We have to get this cargo down," Bat said thinly. "You remember what
+the Foundation man said before we left ... people need food, Morley...."
+
+"What are you thinking about?" I asked again, and then as realization
+came, I added angrily: "Never mind that! I know what you're planning
+Bat, and you can forget it! I'll get this can down all right!"
+
+The voice from the interphone was dry as dust. "Like hell you will. Who
+are you kidding?"
+
+I had no answer there. Without UVR to guide me, I was blind. I didn't
+have a chance to get the _Eagle_ down, and we both knew it.
+
+"I'm coming up," Bat said, "The automatics can take care of things down
+here now."
+
+I glanced at the chronometer. Twenty-two minutes to go. Bat was right.
+The autos could carry on in the tuberoom now. I felt them cut into the
+circuit.
+
+My heart was heavy as I called a craneman into control to handle the
+equipment. Together we unlimbered a pressure-suit from the locker. Then
+I found the skipper's rations and uncorked a bottle. In a moment Bat
+was in Control. When I saw him my stomach muscles tightened. He looked
+as though he'd been broiled. His face was a swollen mass of angry
+flesh and his clothes were seared into his hide. Every movement must
+have been sheer hell for him, but he staggered into the suit and made
+himself fast to the Control crane.
+
+Before calling for the steelglas helmet, he reached thirstily for the
+skipper's bottle and took a long pull.
+
+"Ahhh," he breathed, "That's fine stuff ... real fine." He offered me
+the bottle, grinning painfully. "Have one on me, Morley...."
+
+       *       *       *       *       *
+
+I let the fiery liquor drive down the lump that was sticking in my
+throat and handed Bat the bottle. He finished it in two swallows,
+looked at it regretfully, and tossed it aside. It landed in the corner
+of Control where it lay, rocking senselessly back and forth with the
+jolting movements of the boat.
+
+Bat fastened his helmet on and started for the valve. I wanted to reach
+out and stop him, but I couldn't. I wanted to say something to him ...
+but what? How do you thank a man for buying your life with his own?
+What do you say to pay a man for his pain and his torture?
+
+That's right. You don't say anything. And neither did I. You just stand
+there and watch, with your heart a lump of lead inside you. I did that,
+and no more.
+
+He turned toward me just as the inner valve closed on him and the
+cable he dragged behind him. "See ya," he said with a clumsy wave.
+And then he was outside in that radioactive mist of death, riding the
+crane out and down. Hanging by a thin cable in that stinking fog and
+using his useless mutational powers to save the hides of his ship and
+shipmates ... _and_ the load of weather-plant that meant food to the
+stay-at-homes.
+
+The mass-ratio altimeter gave its last reading--four miles--and then it
+was through, its sensitive coils thrown out of phase by the mass of the
+planetary globe under us. Here, now, was where UVR should have taken
+over.
+
+But there was no UVR. Only a man hanging at the end of a cable in a
+glowing mist that was burning his last chance of life out of him.
+
+I heard his instructions clearly over the small panel set. "About
+three miles up now."
+
+I let the _Eagle_ down slowly. Two miles. One. Hold. Three thousand
+feet. Two. One. Hold. Five hundred feet. Hold. Mojave Desert right
+under us. Baldy off to the right. Lancaster about twenty miles north.
+Down easy....
+
+The tail-flare was splashing against the desert beneath now, turning
+the clinging mist into a ruddy shroud. A glance at the chronometer
+showed about three minutes fuel.
+
+"Let ... her ... down ... slow." Bat's voice was fading fast as the
+terrific heat seared him and the radiation burned deep.
+
+The fuel should be gone now. No time left. Two hundred feet, one
+hundred, fifty, thirty....
+
+I heard Bat's voice sob just once through the radio. "Oh ... dear
+God...!" And that was all.
+
+No time. No fuel.
+
+Silence!
+
+The thunder of the jets stopped abruptly, leaving a frightening void.
+The _Eagle_ slewed about sickeningly and dropped the remaining thirty
+feet like so much lead. There was a rending crash as her tail section
+crumpled, battered plates sinking into the sand, and then she settled
+wearily to a halt amid the bubbling magma of atomized earth....
+
+       *       *       *       *       *
+
+So the pilot-shipment of weather-plant got here all right, and it
+exceeded the Holcomb Foundation's fondest hopes. It brought fertility
+where there had been only barrenness. Long rows of it still bring
+richness and life to the soil and the danger of famine is gone forever.
+
+Just remember now, the next time you take the Pacific stratojet. Look
+under you at that garden of plenty. See the rows upon rows of richly
+bearing plants. Look too at the interstices where a tiny Venusian moss
+called "weather-plant" makes it all possible.
+
+Bat Kendo? He died. He died doing what he wanted to do, and that's
+something. The others maybe weren't so lucky. Of course you never heard
+of Bat, or of the _Eagle_ for that matter. All this happened a long,
+long time ago, and the old memories tarnish. Now people take their
+lives pretty much as they find it, and they never wonder about the guys
+who made it what it is.
+
+Yes, humans are a strange breed. Like I say ... forgetful. Very
+forgetful.
+
+*** END OF THE PROJECT GUTENBERG EBOOK THE FLIGHT OF THE EAGLE ***
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the
+United States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away--you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you will have to check the laws of the country where
+  you are located before using this eBook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that:
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg-tm trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+Section 3. Information about the Project Gutenberg Literary
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation's web site
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without
+widespread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
