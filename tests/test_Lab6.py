@@ -23,7 +23,7 @@ sc = spark.sparkContext
 import Lab6_helper
 
 on_time_df = spark.read.parquet('file:///disk/airline-data-processed/airline-data.parquet')
-airlines = spark.read.parquet('file:///disk/airline-data/DOT_airline_codes_table')
+airlines = spark.read.parquet('file:///disk/airline-data-processed/DOT_airline_codes_table')
 
 def run_exercise_1():
     airline_delay = Lab6_helper.exercise_1(on_time_df,spark).head(10)
